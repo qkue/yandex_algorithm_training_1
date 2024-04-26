@@ -1,3 +1,5 @@
+# Python 3.12.1
+
 def conditioner(room, cond, mode):
     if mode == 'freeze':
         print(min(cond, room))
