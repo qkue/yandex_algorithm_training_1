@@ -25,7 +25,7 @@
          <p>Для каждого из чисел второй последовательности найдите ближайшее к нему в первой.</p></span></div>
    <h2>Формат ввода</h2>
    <div class="input-specification"><span style="">
-         <p>В первой строке входных данных содержатся числа <span class="tex-math-text">N</span> и <span class="tex-math-text">K</span> (<span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/MCBcbHQgTixcLEsgXGx0IDEwMFwsMDAx.png"></span>). Во второй строке задаются <span class="tex-math-text">N</span> чисел первого массива, отсортированного по неубыванию, а в третьей строке – <span class="tex-math-text">K</span> чисел второго массива. Каждое число в обоих массивах по модулю не превосходит <span class="tex-math-text">2&#x22C5;10<sup>9</sup></span>. 
+         <p>В первой строке входных данных содержатся числа <span class="tex-math-text">N</span> и <span class="tex-math-text">K</span> (<span class="tex-math-inline"><img class="tex-math" src="picx.png"></span>). Во второй строке задаются <span class="tex-math-text">N</span> чисел первого массива, отсортированного по неубыванию, а в третьей строке – <span class="tex-math-text">K</span> чисел второго массива. Каждое число в обоих массивах по модулю не превосходит <span class="tex-math-text">2&#x22C5;10<sup>9</sup></span>. 
          </p></span><p></p>
    </div>
    <h2>Формат вывода</h2>
