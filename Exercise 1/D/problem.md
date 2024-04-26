@@ -22,7 +22,7 @@
    </div>
    <h2></h2>
    <div class="legend"><span style="">
-         <p>Решите в целых числах уравнение:</p></span><p><span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/XHNxcnR7YXgrYn09Yw==.png"></span>,
+         <p>Решите в целых числах уравнение:</p></span><p><span class="tex-math-inline"><img class="tex-math" src="formula.png"></span>,
       </p>
       <p>a, b, c – данные целые числа: найдите все решения или сообщите, что решений в целых числах нет.</p>
    </div>
