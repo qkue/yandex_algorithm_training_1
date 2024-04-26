@@ -1,3 +1,5 @@
+# Python 3.12.1
+
 tel = ''.join(t for t in input() if t.isdigit())
 if len(tel) == 7:
 	tel = '7495' + tel
