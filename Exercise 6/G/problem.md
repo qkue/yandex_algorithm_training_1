@@ -109,6 +109,6 @@
    <h2>Примечания</h2>
    <div class="notes"><span style="">
          <p>Пояснение к примеру. Площадь имеет размеры <span class="tex-math-text">6&times; 7</span>, из 38 плиток можно выложить дорожку шириной в 2 плитки. 
-         </p></span><p><img class="user-image" src="/testsys/statement-image?imageId=908d215c28579652026b662af304c93b093d799dbecf7fd499e832de83d1d872"></p>
+         </p></span><p><img class="user-image" src="pic_g.png"></p>
    </div>
 </div></div>
