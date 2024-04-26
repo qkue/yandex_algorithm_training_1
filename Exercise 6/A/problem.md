@@ -25,7 +25,7 @@
          <p>Реализуйте двоичный поиск в массиве </p></span></div>
    <h2>Формат ввода</h2>
    <div class="input-specification"><span style="">
-         <p>В первой строке входных данных содержатся натуральные числа <span class="tex-math-text">N</span> и <span class="tex-math-text">K</span> (<span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/MCBcbHQgTiwgSyBcbGUgMTAwXCwwMDA=.png"></span>). Во второй строке&nbsp;задаются <span class="tex-math-text">N</span> элементов первого массива, а в третьей строке – <span class="tex-math-text">K</span> элементов второго массива. Элементы обоих массивов - целые числа, каждое из которых по модулю не превосходит <span class="tex-math-text">10<sup>9</sup></span> 
+         <p>В первой строке входных данных содержатся натуральные числа <span class="tex-math-text">N</span> и <span class="tex-math-text">K</span> (<span class="tex-math-inline"><img class="tex-math" src="pic.png"></span>). Во второй строке&nbsp;задаются <span class="tex-math-text">N</span> элементов первого массива, а в третьей строке – <span class="tex-math-text">K</span> элементов второго массива. Элементы обоих массивов - целые числа, каждое из которых по модулю не превосходит <span class="tex-math-text">10<sup>9</sup></span> 
          </p>
          <p></p></span></div>
    <h2>Формат вывода</h2>
