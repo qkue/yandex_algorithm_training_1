@@ -85,7 +85,7 @@
    <div class="notes"><span style="">
          <p>Для входных данных 11 3 2 21 25 можно установить дополнительную защиту толщиной 2 метра и разместить модули на поле, как показано
             на рисунке.
-         </p></span><p><img class="user-image" src="/testsys/pic_d.png"> 
+         </p></span><p><img class="user-image" src="pic_d.png"> 
       </p>
    </div>
 </div></div>
