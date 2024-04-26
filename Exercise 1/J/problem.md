@@ -23,7 +23,7 @@
    <h2></h2>
    <div class="legend"><span style="">
          <p>Даны числа <span class="tex-math-text">a</span>, <span class="tex-math-text">b</span>, <span class="tex-math-text">c</span>, <span class="tex-math-text">d</span>, <span class="tex-math-text">e</span>, <span class="tex-math-text">f</span>. Решите систему линейных уравнений 
-         </p></span><p><span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/YXggKyBieSA9IGUsIFxjciBjeCArIGR5ID0gZg==.png"></span> 
+         </p></span><p><span class="tex-math-inline"><img class="tex-math" src="formula1.png"></span> 
       </p>
    </div>
    <h2>Формат ввода</h2>
