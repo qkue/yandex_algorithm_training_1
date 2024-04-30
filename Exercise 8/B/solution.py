@@ -28,8 +28,6 @@ def add(mem_struct, root, x, level = 2):
     key = mem_struct[0][root][0]
     if x == key:
         return 0
-    #global max_level 
-    #max_level = max(max_level, level)
     if x < key:
         left = mem_struct[0][root][1]
         if left == -1:
@@ -52,8 +50,6 @@ root = create_and_fill_node(mem_struct, arr_input[0])
 if root == 0:
     ans.append(1)
 for num in range(1, len(arr_input) - 1):
-    #max_level = 0
     add(mem_struct, root, arr_input[num])
-    #print(max_level + 1)
 print(' '.join(str(a) for a in ans))
-#print(mem_struct[0])
+
