@@ -29,7 +29,6 @@
    <h2>Формат ввода</h2>
    <div class="input-specification"><span style="">
          <p>Программа получает на вход число элементов в генеалогическом древе <span class="tex-math-text">N</span>. Далее следует <span class="tex-math-text">N-1</span> строка, задающие родителя для каждого элемента древа, кроме родоначальника. Каждая строка имеет вид имя_потомка имя_родителя.
-            
          </p></span></div>
    <h2>Формат вывода</h2>
    <div class="output-specification"><span style="">
