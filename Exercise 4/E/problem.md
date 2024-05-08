@@ -40,7 +40,7 @@
       и <!--l. 56--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>h</mi></mrow><mrow><mi>i</mi></mrow></msub></math>
       (<!--l. 56--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn> <mo>≤</mo>
       <msub><mrow><mi>w</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>,</mo><msub><mrow><mi>h</mi></mrow><mrow><mi>i</mi></mrow></msub>
-      <mo>≤</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>9</mn></mrow></msup></math>)&nbsp;— ширина и высота блока соответственно.
+      <mo>≤</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn><sup>9</sup>sup></mn></mrow></msup></math>)&nbsp;— ширина и высота блока соответственно.
       </p>
       
    </div>
